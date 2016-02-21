@@ -17,9 +17,7 @@ Easy to add features with free plans.
 
 ## Pictures
 
-### [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
-
-_Do what you want, even commercial use, without credit._
+**[CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)**
 
 - [http://travelcoffeebook.tumblr.com/](http://travelcoffeebook.tumblr.com/)
 - [http://jaymantri.com/](http://jaymantri.com/)
@@ -33,17 +31,13 @@ _Do what you want, even commercial use, without credit._
 - [http://www.titania-foto.com/](http://www.titania-foto.com/)
 - [https://stocksnap.io/](https://stocksnap.io/)
 - [FoodShot](http://foodshot.co/)
-- 
-### [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
-_Do what you want, but share credit_
+**[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)**
 
 - [http://startupstockphotos.com/](http://startupstockphotos.com/)
 - [http://www.freepik.com/](http://www.freepik.com/) (PSD, Illustrator, vector...)
 
-### Public domain
-
-_Depend on each picture. In most of the case, name the author / url and it's good._
+**Public domain**
 
 - [http://www.goodfreephotos.com/](http://www.goodfreephotos.com/) _voir la  [licence de domaine publique](http://www.goodfreephotos.com/pages/creative-commons-license-terms) liée_
 - [http://publicdomainarchive.com/](http://publicdomainarchive.com/)
@@ -52,15 +46,13 @@ _Depend on each picture. In most of the case, name the author / url and it's goo
 
 _Find more public domain images on [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)_
 
-### Images placeholder
-
-_Display dummy image. Good for test_
+**Images placeholder**
 
 - [http://lorempixel.com/](http://lorempixel.com/)
 - [http://placehold.it/](http://placehold.it/)
 - [http://dummyimage.com/](http://dummyimage.com/)
 
-### Other pictures library search engines
+**Other pictures library search engines**
 
 - [Theedublogger](http://www.theedublogger.com/2014/07/09/the-ultimate-directory-of-free-image-sources/).
 - [Alexej gist](https://github.com/heyalexej/awesome-images) 
