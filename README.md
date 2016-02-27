@@ -8,6 +8,7 @@ Easy to add features with free plans.
 
 - [Airtable](https://airtable.com/): database as a spreadsheet, with easy form integration
 - [Filestack](https://www.filestack.com/): Upload or ingest images, documents and files of any type. (free plan, image transformation api)
+- [Revue](https://www.getrevue.co/): create digest emailing fast.
 - [Scraping hub](http://scrapinghub.com/): scrap web pages to get the data.
 - [TypeForm](https://www.typeform.com/): create beautifull form in a minute
 - [Webtask.io](https://webtask.io/): run code with an HTTP call. No provisioning. No deployment.
