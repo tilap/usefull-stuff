@@ -21,44 +21,55 @@ Easy to add features with free plans.
 
 **[CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)**
 
-- [http://travelcoffeebook.tumblr.com/](http://travelcoffeebook.tumblr.com/)
-- [http://jaymantri.com/](http://jaymantri.com/)
-- [http://www.gratisography.com/](http://www.gratisography.com/)
-- [http://littlevisuals.co/](http://littlevisuals.co/)
-- [http://www.pexels.com/](http://www.pexels.com/)
-- [http://picjumbo.com/](http://picjumbo.com/)
-- [http://pixabay.com/](http://pixabay.com/)
-- [http://www.raumrot.com/](http://www.raumrot.com/)
-- [http://splitshire.com/](http://splitshire.com/)
-- [http://www.titania-foto.com/](http://www.titania-foto.com/)
-- [https://stocksnap.io/](https://stocksnap.io/)
+- [Creativevix.com](http://creativevix.com/stock)
+- [Cupcake.nilssonlee.se](http://cupcake.nilssonlee.se/)
+- [Fancycrace.com](http://fancycrave.com/)
+- [FoodiesFeed.com](https://foodiesfeed.com/)
 - [FoodShot](http://foodshot.co/)
+- [Getrefe.tumblr.com](http://getrefe.tumblr.com/)
+- [Gratisography.com](http://www.gratisography.com/)
+- [Jaymantri.com](http://jaymantri.com/)
+- [Littlevisuals.co](http://littlevisuals.co/)
+- [Magdeleine.co](http://magdeleine.co/license/cc0/)
+- [Moveast.me](http://moveast.me/)
+- [Pexels.com](http://www.pexels.com/)
+- [Picjumbo.com](http://picjumbo.com/)
+- [Pixabay.com](http://pixabay.com/)
+- [Raumrot.com](http://www.raumrot.com/)
+- [SnapWiresnaps.tumblr.com](http://snapwiresnaps.tumblr.com/)
+- [Splitshire.com](http://splitshire.com/)
+- [Stockpic.com](http://stokpic.com/)
+- [Stocksnap.io](https://stocksnap.io/)
+- [Titania-foto.com](http://www.titania-foto.com/)
+- [Travelcoffeebook.tumblr.com](http://travelcoffeebook.tumblr.com/)
 
 **[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)**
 
-- [http://startupstockphotos.com/](http://startupstockphotos.com/)
-- [http://www.freepik.com/](http://www.freepik.com/) (PSD, Illustrator, vector...)
+- [Freepik.com](http://www.freepik.com/) (PSD, Illustrator, vector...)
+- [Startupstockphotos.com](http://startupstockphotos.com/)
 
 **Public domain**
 
-- [http://www.goodfreephotos.com/](http://www.goodfreephotos.com/) _voir la  [licence de domaine publique](http://www.goodfreephotos.com/pages/creative-commons-license-terms) liée_
-- [http://publicdomainarchive.com/](http://publicdomainarchive.com/)
-- [http://stockphotos.io/](http://stockphotos.io/) _là, il y en a sous domaine publique et en CCO_
+- [Goodfreephotos.com](http://www.goodfreephotos.com/) _[license](http://www.goodfreephotos.com/pages/creative-commons-license-terms)_
 - [New York Public Library](http://www.nypl.org/research/collections/digital-collections/public-domain)
+- [Photocollections.io](http://photocollections.io/) _[license](http://creativecommons.org/publicdomain/zero/1.0/)_
+- [Publicdomainarchive.com](http://publicdomainarchive.com/) 
+- [Stockphotos.io](http://stockphotos.io/) _là, il y en a sous domaine publique et en CCO_
 
 _Find more public domain images on [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)_
 
 **Images placeholder**
 
-- [http://lorempixel.com/](http://lorempixel.com/)
-- [http://placehold.it/](http://placehold.it/)
-- [http://dummyimage.com/](http://dummyimage.com/)
+- [Dummyimage.com](http://dummyimage.com/)
+- [Lorempixel.com](http://lorempixel.com/)
+- [Placehold.it](http://placehold.it/)
 
 **Other pictures library search engines**
 
-- [Theedublogger](http://www.theedublogger.com/2014/07/09/the-ultimate-directory-of-free-image-sources/).
 - [Alexej gist](https://github.com/heyalexej/awesome-images) 
-- [thestocks](http://thestocks.im/)
 - [Allthefreestock](http://allthefreestock.com/)
+- [Theedublogger](http://www.theedublogger.com/2014/07/09/the-ultimate-directory-of-free-image-sources/).
+- [thestocks](http://thestocks.im/)
+
 
 
